@@ -9,3 +9,7 @@ C:\Users\senan\Desktop\MyFinalProject\Entities\obj\Debug\net6.0\Entities.dll
 C:\Users\senan\Desktop\MyFinalProject\Entities\obj\Debug\net6.0\refint\Entities.dll
 C:\Users\senan\Desktop\MyFinalProject\Entities\obj\Debug\net6.0\Entities.pdb
 C:\Users\senan\Desktop\MyFinalProject\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\senan\Desktop\MyFinalProject\Entities\bin\Debug\net6.0\Core.dll
+C:\Users\senan\Desktop\MyFinalProject\Entities\bin\Debug\net6.0\Core.pdb
+C:\Users\senan\Desktop\MyFinalProject\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\senan\Desktop\MyFinalProject\Entities\obj\Debug\net6.0\Entities.csproj.CopyComplete
