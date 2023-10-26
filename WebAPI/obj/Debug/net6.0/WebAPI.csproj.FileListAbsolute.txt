@@ -85,3 +85,7 @@ C:\Users\senan\Desktop\MyFinalProject\WebAPI\bin\Debug\net6.0\Business.pdb
 C:\Users\senan\Desktop\MyFinalProject\WebAPI\bin\Debug\net6.0\Core.pdb
 C:\Users\senan\Desktop\MyFinalProject\WebAPI\bin\Debug\net6.0\DataAccess.pdb
 C:\Users\senan\Desktop\MyFinalProject\WebAPI\bin\Debug\net6.0\Entities.pdb
+C:\Users\senan\Desktop\MyFinalProject\WebAPI\bin\Debug\net6.0\Autofac.dll
+C:\Users\senan\Desktop\MyFinalProject\WebAPI\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\senan\Desktop\MyFinalProject\WebAPI\bin\Debug\net6.0\Autofac.Extras.DynamicProxy.dll
+C:\Users\senan\Desktop\MyFinalProject\WebAPI\bin\Debug\net6.0\Castle.Core.dll
