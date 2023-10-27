@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "b16R3kHXV3kOg0QK8JbxtmNrSkeFA4q65gheiLx5nH+Zi6rUhcrQ/y7R7CyYVWmFokh2yHnm5c7QYJbSN3dvBQ==",
+  "dgSpecHash": "Y35h+sDycUgGqhtrlgmwoVCeld1pP3Nvd7+cXxaEE+nvo/Ne06ihJtX9Aug9oIBeqwDldhZfR0aQW/LHDrsvbQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\senan\\Desktop\\MyFinalProject\\Business\\Business.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\senan\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\senan\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\senan\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\senan\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",
     "C:\\Users\\senan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\senan\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\senan\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",
