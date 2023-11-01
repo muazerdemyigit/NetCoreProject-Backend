@@ -9,5 +9,6 @@
         public static string ProductCountOfCategoryError = "Bir kategoride en fazla 10 ürün olabilir";
         public static string ProductUpdated = "Ürün güncellendi";
         public static string ProductNameAlreadyExists = "Bu isimde bir ürün var";
+        public static string CategoryLimitExceded = "Kategori limiti aşıldığı için yeni katergori eklenemiyor";
     }
 }
