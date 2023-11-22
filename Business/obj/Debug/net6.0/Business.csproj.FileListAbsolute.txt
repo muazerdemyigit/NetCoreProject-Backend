@@ -17,3 +17,4 @@ C:\Users\senan\Desktop\MyFinalProject\Business\obj\Debug\net6.0\Business.pdb
 C:\Users\senan\Desktop\MyFinalProject\Business\obj\Debug\net6.0\ref\Business.dll
 C:\Users\senan\Desktop\MyFinalProject\Business\bin\Debug\net6.0\Core.dll
 C:\Users\senan\Desktop\MyFinalProject\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\senan\Desktop\MyFinalProject\Business\obj\Debug\net6.0\Business.sourcelink.json
