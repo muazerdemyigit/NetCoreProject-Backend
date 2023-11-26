@@ -1,6 +1,6 @@
 ﻿# Net Core Backend Project
 
-Bu repository, Yazılım Geliştirici Eğitim Kampı kapsamında geliştirilen bir E-Ticaret projesinin backend tarafını içermektedir.
+Bu repository, [Yazılım Geliştirici Eğitim Kampı](https://www.kodlama.io/p/yazilim-gelistirici-yetistirme-kampi) kapsamında geliştirilen bir E-Ticaret projesinin backend tarafını içermektedir.
 
 ## Proje Tanımı
 
